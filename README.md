@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/favouritesam">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Avid+Traveler+%F0%9F%8C%8D;Problem+Solver+%F0%9F%A7%A9;Always+Seeking+the+Next+Challenge" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Software+Engineer;Avid+Traveler+%F0%9F%8C%8D;Problem+Solver+%F0%9F%A7%A9;Always+Seeking+the+Next+Challenge" alt="Typing SVG" />
   </a>
 </p>
 
