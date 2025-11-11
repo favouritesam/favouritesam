@@ -1,6 +1,3 @@
-#favouritesam
-
-
 <h1 align="center">Hi 👋, I'm Nwadike Ebere Favour</h1>
 <h3 align="center">A passionate Software Engineer, Adventurer & Problem Solver 🚀</h3>
 
