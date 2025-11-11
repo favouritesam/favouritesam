@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-- 💻 Software Engineer focused on **TypeScript**, **React**, **Next js**, **Tailwind css**, and **HTML AND CSS**
+- 💻 Software Engineer focused on **TypeScript**, **React**, **Next js**, **Vite**, **Zustand**, **Redux**, **Tailwind css**, and **HTML AND CSS**
 - 🌍 Passionate about **adventure, creativity, and continuous learning**
 - ✨ Loves building digital experiences that solve real problems
 - 📫 Reach me at **nwadikefavour12@gmail.com**
