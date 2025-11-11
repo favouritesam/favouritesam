@@ -36,17 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=favouritesam&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=favouritesam&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=favouritesam&layout=compact&theme=radical" />
-</p>
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:nwadikefavour12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
